@@ -1,1 +1,8 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
+algorithm/背包九讲.pdf filter=lfs diff=lfs merge=lfs -text
+algorithm/Data[[:space:]]Structures[[:space:]]and[[:space:]]Algorithms[[:space:]]in[[:space:]]Java,[[:space:]]6th[[:space:]]Edition-Wiley(2014).pdf filter=lfs diff=lfs merge=lfs -text
+algorithm/Java数据结构和算法.2nd.pdf filter=lfs diff=lfs merge=lfs -text
+algorithm/数据结构与算法分析.pdf filter=lfs diff=lfs merge=lfs -text
+algorithm/数据结构与算法经典问题解析[[:space:]][[:space:]]Java语言描述.pdf filter=lfs diff=lfs merge=lfs -text
+algorithm/算法导论_第3版_CHS.pdf filter=lfs diff=lfs merge=lfs -text
+algorithm/算法导论(第3版中文版)[[:space:]]-[[:space:]]Thomas[[:space:]]H.Cormen[[:space:]]-[[:space:]]机械工业出版社.pdf filter=lfs diff=lfs merge=lfs -text
